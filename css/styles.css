@@ -19747,6 +19747,12 @@ section {
   font-weight: lighter;
 }
 
+.highlight-name {
+  color: #ff6347; /* Example: Tomato color */
+  font-size: 2rem; /* Adjust the font size as needed */
+  font-weight: w300; /* Optional: Make it bold */
+}
+
 @media (min-width: 992px) {
   .divider-right {
     border-right: 0.0625rem solid #e0e5ec;
